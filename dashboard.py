@@ -4,6 +4,7 @@ from supabase.client import Client, create_client
 import os
 from dotenv import load_dotenv
 
+
 # --- Page Configuration ---
 st.set_page_config(
     page_title="Sparky AI Agent Dashboard",
