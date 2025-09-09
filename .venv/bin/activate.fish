@@ -29,7 +29,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/Jeandre/Desktop/ZAPPIES CUSTOMERS/IPIC PLAY & PARTY/IPIC PROJECTS/.venv"
+set -gx VIRTUAL_ENV "/Users/Jeandre/Desktop/ZAPPIES CUSTOMERS/IPIC PLAY & PARTY/IPIC PROJECTS/IPIC_Play_and_Party_Dashboard/.venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
